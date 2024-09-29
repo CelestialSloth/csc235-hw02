@@ -13,3 +13,6 @@ This visualization allows you to zoom into the message frequency at any time on 
 
 ## Movement Density
 This visualization compares the number of people in different locations of the park on Sunday. Use the scrubber to check different times.  To generate, run all code blocks in ```movement_density.ipynb``` and observe the visualization produced in the final code block.
+
+## Top Message Receivers around Noon in the Wetlands
+This visualization is a pie chart that shows the top message recipients in the Wet Lands around noon on Sunday. To generate, run all code blocks in ```message_pie_chart.ipynb``` and observe the visualization produced in the final code block.
